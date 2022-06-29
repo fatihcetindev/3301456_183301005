@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118357181506",
+    "project_id": "fatih-cc23c",
+    "storage_bucket": "fatih-cc23c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118357181506:android:4d2258dfdc9624089a99db",
+        "android_client_info": {
+          "package_name": "com.mycompany.fatih.fatih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118357181506-be0ctecsol0hq6f24oisp6sj8vlvdkb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1eJTWC6hhKPNt2UFohCXh8TVtq3lvtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118357181506-be0ctecsol0hq6f24oisp6sj8vlvdkb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
